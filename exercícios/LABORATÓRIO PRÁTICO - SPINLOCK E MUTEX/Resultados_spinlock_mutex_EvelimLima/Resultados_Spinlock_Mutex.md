@@ -1,5 +1,4 @@
 Aluno(a): Evelim Lima
-Matrícula: 22354504
 
 # Laboratório: Controle de Concorrência com Spinlock e Mutex
 
